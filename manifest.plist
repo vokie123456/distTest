@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://7xohkg.com1.z0.glb.clouddn.com/hippo.png</string>
+                        <string>https://github.com/vokie123456/distTest/blob/master/hippo512x512.png?raw=true</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://7xohkg.com1.z0.glb.clouddn.com/hippo.png</string>
+                        <string>https://github.com/vokie123456/distTest/blob/master/hippo57x57.png?raw=true</string>
                     </dict>
                 </array>
                 <key>metadata</key>
